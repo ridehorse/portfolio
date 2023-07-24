@@ -13,9 +13,9 @@
 </br>
 
 ## 📌 Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)
->개발 기간 : 2019.2.18 ~ 2019.4.5
+### 1. [webMarket](https://github.com/ridehorse/)
+>의류 쇼핑몰(JSP) / 팀 프로젝트
+>개발 기간 : 2023.3 (1달)
 >
 >기술 스택:
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
@@ -26,9 +26,9 @@
 
 ---
 
-### 2.[두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개 (팀 프로젝트)
->개발 기간 : 2020.7.18 ~ 2020.11.5
+### 2.[excitingAmusement](https://github.com/ridehorse/)
+>놀이공원 소개 및 예약 구매 사이트(spring) / 팀 프로젝트
+>개발 기간 : 2023.5(1달) 
 >
 >기술 스택:
 >java 8 / Spring Boot / Gradle / Spring Data JPA / QueyrDSL
@@ -37,4 +37,16 @@
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
+
+### 3.[excitingAmusement](https://github.com/ridehorse/)
+>놀이공원 소개 및 예약 구매 사이트(springboot + react) / 팀 프로젝트
+>개발 기간 : 2020.7.18 ~ 2020.11.5
+>
+>기술 스택:
+>java 8 / Spring Boot / Gradle / Spring Data JPA / QueyrDSL
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U
+>
+>[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+
+
 
