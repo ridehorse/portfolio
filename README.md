@@ -8,7 +8,7 @@
 
 ## 📌 Contact
  - 이메일 : dkstlwlss@naver.com
- - 블로그 : https://ryan-han.com
+ - 블로그 : https://walybaly.tistory.com/
  - 깃헙 : https://github.com/integerous
 </br>
 
