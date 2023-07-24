@@ -4,7 +4,8 @@
 </br>
 
 ## 📌 intro
-안녕하세요 xxx 입니다.
+안녕하세요.
+
 
 ## 📌 Contact
  - 이메일 : dkstlwlss@naver.com
@@ -19,7 +20,7 @@
 >개발 기간 : 2023.3 (1달)
 >
 >기술 스택:
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
+>JSP 
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U
 >
 >[프로젝트 상세 설명](https://github.com/Intergerous/goQuality) 참고
@@ -27,10 +28,10 @@
 
 ---
 
-### 2.[excitingAmusement](https://github.com/ridehorse/)
+### 2. [excitingAmusement](https://github.com/ridehorse/)
 >놀이공원 소개 및 예약 구매 사이트(spring) / 팀 프로젝트
 >
->개발 기간 : 2023.5(1달) 
+>개발 기간 : 2023.4~2023.5(1달) 
 >
 >기술 스택:
 >java 8 / Spring Boot / Gradle / Spring Data JPA / QueyrDSL
@@ -40,15 +41,14 @@
 
 ---
 
-### 3.[excitingAmusement](https://github.com/ridehorse/)
+### 3. [excitingAmusement](https://github.com/ridehorse/)
 >놀이공원 소개 및 예약 구매 사이트(springboot + react) / 팀 프로젝트
 >
->개발 기간 : 2020.7.18 ~ 2020.11.5
+>개발 기간 : 2023.6.18 ~ 2023.7.18(1달)
 >
 >기술 스택:
->java 8 / Spring Boot / Gradle / Spring Data JPA / QueyrDSL
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U
->
+>Spring Boot / Gradle / JPA / react / java 11 
+>MySQL / Spring Security
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 
