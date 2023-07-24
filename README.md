@@ -15,6 +15,7 @@
 ## 📌 Projects
 ### 1. [webMarket](https://github.com/ridehorse/)
 >의류 쇼핑몰(JSP) / 팀 프로젝트
+>
 >개발 기간 : 2023.3 (1달)
 >
 >기술 스택:
@@ -28,6 +29,7 @@
 
 ### 2.[excitingAmusement](https://github.com/ridehorse/)
 >놀이공원 소개 및 예약 구매 사이트(spring) / 팀 프로젝트
+>
 >개발 기간 : 2023.5(1달) 
 >
 >기술 스택:
@@ -40,6 +42,7 @@
 
 ### 3.[excitingAmusement](https://github.com/ridehorse/)
 >놀이공원 소개 및 예약 구매 사이트(springboot + react) / 팀 프로젝트
+>
 >개발 기간 : 2020.7.18 ~ 2020.11.5
 >
 >기술 스택:
