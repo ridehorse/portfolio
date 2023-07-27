@@ -41,7 +41,7 @@
 > - 로그인 / 회원가입 / 정보수정 / 게시글.댓글 모아보기
 >
 >기술 스택
-> - Java 8 / Spring / Maven / Mybatis / MySQL / JavaScript / Ajax / JQuery / BootStrap / API
+> - Java 8 / Spring / Maven / Mybatis / MySQL / JavaScript / Ajax / JQuery / BootStrap / REST API
 >
 >프로젝트 설명
 > - 놀이공원의 정보 제공 및 놀이공원 예매를 할 수 있는 웹사이트 입니다. Spring MVC를 통해 구현되었습니다.
