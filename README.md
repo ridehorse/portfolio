@@ -32,7 +32,7 @@
 
 ---
 
-### 2. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/exciting_final_react)
+### 2. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_spring)
 >놀이공원 소개 및 예약 구매 사이트(spring) / 팀 프로젝트 / 팀원
 >
 >개발 기간 : 2023.4~2023.5(1달) 
@@ -46,7 +46,7 @@
 >프로젝트 설명
 > - 놀이공원의 정보 제공 및 놀이공원 예매를 할 수 있는 웹사이트 입니다. Spring MVC를 통해 구현되었습니다.
 >   
->[프로젝트 상세 설명](https://github.com/ridehorse/excitingamusement2/tree/exciting_final_react) << 클릭해주세요.
+>[프로젝트 상세 설명](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_spring) << 클릭해주세요.
 
 ---
 
