@@ -1,9 +1,9 @@
-# xxx 포트폴리오
+# 안시진 포트폴리오
 
 </br>        
 
 ## 📌 intro  
-  안녕하세요.
+  안녕하세요. 
 
 
 ## 📌 Contact
@@ -12,27 +12,8 @@
 </br>
 
 ## 📌 Projects
-### 1. [webMarket](https://github.com/ridehorse/excitingamusement2/tree/webmarket)
->
-> ⚡ 의류 쇼핑몰(JSP) / 팀 프로젝트(5명) / 팀장
->
-> ⚡ 담당 파트
-> - 결제 페이지
-> 
-> ⚡ 개발 기간 - 2023.2~2023.3 (1달)
->
-> ⚡ 기술 스택 
-> - JSP / mySQL / HTML / CSS / JavaScript / API
->
-> ⚡ 프로젝트 설명 
-> - JSP를 이용하여 만든 의류 쇼핑몰 웹사이트 입니다. 하의 상의 별로 의류 리스트를 보여주고, 회원별로 원하는 사이즈와 컬러의 옷을 즐겨찾기에 등록할수 있습니다. 또한 즐겨찾기에 등록된 의류를 결제페이지로 이동하여 총 금액을 계산한 다음, 원하는 배송정보와 주소를 입력하여 결제진행을 하게 됩니다.(실제 결제는 이뤄지지 않습니다)
->
-> ⚡ [프로젝트 상세 설명](https://github.com/ridehorse/excitingamusement2/tree/webmarket) << 클릭해주세요.
 
-
----
-
-### 2. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_spring)
+### 1. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_spring)
 
 > ⚡ 놀이공원 소개 및 예약 구매 사이트(spring) / 팀 프로젝트(5명) / 팀원
 >
@@ -51,7 +32,7 @@
 
 ---
 
-### 3. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/exciting_final_react)
+### 2. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/exciting_final_react)
 
 > ⚡ 놀이공원 소개 및 예약 구매 사이트(springboot + react) / 팀 프로젝트 / 팀원
 >
@@ -68,5 +49,23 @@
 >
 > ⚡ [프로젝트 상세 설명](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_bootreact) << 클릭해주세요
 
+---
+
+### 3. [webMarket](https://github.com/ridehorse/excitingamusement2/tree/webmarket)
+>
+> ⚡ 의류 쇼핑몰(JSP) / 팀 프로젝트(5명) / 팀장
+>
+> ⚡ 담당 파트
+> - 결제 페이지
+> 
+> ⚡ 개발 기간 - 2023.2~2023.3 (1달)
+>
+> ⚡ 기술 스택 
+> - JSP / mySQL / HTML / CSS / JavaScript / API
+>
+> ⚡ 프로젝트 설명 
+> - JSP를 이용하여 만든 의류 쇼핑몰 웹사이트 입니다. 하의 상의 별로 의류 리스트를 보여주고, 회원별로 원하는 사이즈와 컬러의 옷을 즐겨찾기에 등록할수 있습니다. 또한 즐겨찾기에 등록된 의류를 결제페이지로 이동하여 총 금액을 계산한 다음, 원하는 배송정보와 주소를 입력하여 결제진행을 하게 됩니다.(실제 결제는 이뤄지지 않습니다)
+>
+> ⚡ [프로젝트 상세 설명](https://github.com/ridehorse/excitingamusement2/tree/webmarket) << 클릭해주세요.
 
 
