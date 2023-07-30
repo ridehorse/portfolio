@@ -42,7 +42,7 @@
 > - 로그인 / 회원가입 / 정보수정 / 게시글.댓글 모아보기
 >
 > ⚡ 기술 스택
-> - Java 11 / Spring Boot / Spring Security / Gradle / JPA / MySQL / React / React BootStrap / REST API
+> - Java 11 / Spring Boot / Spring Security / Gradle / JPA / MySQL / React / React BootStrap / REST API / JWT
 >
 > ⚡ 프로젝트 설명
 > - 2번째 프로젝트를 백엔드는 springboot로 클라이언트는 react로 구현하였습니다. 또한 기존 기능에 spring security와 Oauth2.0을 추가하였습니다.
