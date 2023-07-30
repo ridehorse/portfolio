@@ -45,7 +45,7 @@
 > - Java 11 / Spring Boot / Spring Security / Gradle / JPA / MySQL / React / React BootStrap / REST API / JWT
 >
 > ⚡ 프로젝트 설명
-> - 2번째 프로젝트를 백엔드는 springboot로 클라이언트는 react로 구현하였습니다. 또한 기존 기능에 spring security와 Oauth2.0을 추가하였습니다.
+> - 백엔드는 springboot로 클라이언트는 react로 구현하였습니다. 또한 기존 기능에 spring security와 Oauth2.0을 추가하였습니다.
 >
 > ⚡ [프로젝트 상세 설명](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_bootreact) << 클릭해주세요
 
