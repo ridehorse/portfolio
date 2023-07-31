@@ -27,7 +27,7 @@
 
 ---
 
-### 2. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/exciting_final_react)
+### 2. [excitingAmusement](https://github.com/ridehorse/excitingamusement2/tree/excitingamusement_bootreact)
 
 > ⚡ 놀이공원 소개 및 예약 구매 사이트(springboot + react) / 팀 프로젝트 / 팀원
 >
